@@ -1,0 +1,35 @@
+@import "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/fontawesome.min.css";
+
+body{
+
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: url('images.jpg');
+    background-size: cover;
+}
+
+.btn{
+    width: 100%;
+    background: none;
+    border: 2px solid #4caf50;
+    color: white;
+    padding: 5px;
+    font-size: 50px;
+    cursor: pointer;
+    margin: 12px 0;
+    
+}
+
+h1{
+
+    width: 100%;
+    background: none;
+    text-align: center;
+    color: rgb(29, 7, 82);
+    
+    font-size: 60px;
+    cursor: pointer;
+    margin: 12px 0;
+
+}

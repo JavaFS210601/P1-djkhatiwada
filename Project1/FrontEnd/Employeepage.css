@@ -1,0 +1,9 @@
+@import "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/fontawesome.min.css";
+body{
+
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: url('photo-1541833330446-b19cfa6564dc.jpg');
+    background-size: cover;
+}
